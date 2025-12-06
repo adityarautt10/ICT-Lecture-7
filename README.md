@@ -1,2 +1,5 @@
-This repository is for Lecture 7 of the ICT course.
-I am practicing Git commands, commits, and remote setup.
+ICT Lecture 7
+Lecture 7 Exercise Submission
+Owner: Aditya Ashok Raut
+Date: $(05 +%Y-%m-%d)
+
